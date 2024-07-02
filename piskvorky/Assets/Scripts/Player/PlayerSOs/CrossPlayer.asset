@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80e48bc6939c1a4ba31a00d3aaed264, type: 3}
+  m_Name: CrossPlayer
+  m_EditorClassIdentifier: 
+  playerID: 1
+  playerFieldIndicator: {fileID: 21300000, guid: d69f6441835328d458651188ebe86a97, type: 3}
+  playerFieldHaloSprite: {fileID: 21300000, guid: a692c3adb5667cc488d74ec83b5558bb, type: 3}
+  stringPlayerRepresentation: x
+  playerColor: {r: 0.8784314, g: 0.10980392, b: 0.10980392, a: 1}
